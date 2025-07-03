@@ -1,9 +1,28 @@
-- 👋 Hi, I’m @mamurzoda8
-- 👀 I’m interested in mobile app development (especially with Flutter), competitive programming, video editing, and football.
-- 🌱 I’m currently learning Flutter and FlutterFlow to build cross-platform applications with clean and scalable code.
-- 💞️ I’m looking to collaborate on ducational technology projects, particularly in the area of language learning and mobile innovation.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Besides programming, I enjoy video editing and playing football — it helps me stay creative and energized.
+# ✨ 𝓗𝓲, 𝓘’𝓶 @𝓶𝓪𝓶𝓾𝓻𝔃𝓸𝓭𝓪8  
+👋🏽 **𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐃𝐞𝐯 𝐒𝐩𝐚𝐜𝐞!**
+
+## 👀 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
+🎯 𝐈'𝐦 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐚𝐛𝐨𝐮𝐭:
+- 📱 𝙈𝙤𝙗𝙞𝙡𝙚 𝘼𝙥𝙥 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 (𝚎𝚜𝚙. 𝚠𝚒𝚝𝚑 𝙁𝙡𝙪𝙩𝙩𝙚𝙧)
+- 🧠 𝘾𝙤𝙢𝙥𝙚𝙩𝙞𝙩𝙞𝙫𝙚 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜
+- 🎬 𝙑𝙞𝙙𝙚𝙤 𝙀𝙙𝙞𝙩𝙞𝙣𝙜
+- ⚽ 𝙁𝙤𝙤𝙩𝙗𝙖𝙡𝙡
+
+## 🌱 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐉𝐨𝐮𝐫𝐧𝐞𝐲
+🚀 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 **𝙁𝙡𝙪𝙩𝙩𝙚𝙧** & **𝙁𝙡𝙪𝙩𝙩𝙚𝙧𝙁𝙡𝙤𝙬**  
+to craft cross-platform apps with clean, scalable code 🧼
+
+## 💞️ 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧
+🎓 Looking to collaborate on **educational technology projects**,  
+especially in **language learning** and **mobile innovation**
+
+## 😄 𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬
+- 𝐇𝐞/𝐇𝐢𝐦
+
+## ⚡ 𝐅𝐮𝐧 𝐅𝐚𝐜𝐭
+When not coding, I’m editing videos or kicking a football—  
+creativity flows better when you’re having fun! 🎥⚽
+
 
 
 
